@@ -1,0 +1,3 @@
+static Context factions[]={{"fallout4.esm",0x994f6,1,0,nullptr},{"fallout4.esm",0x83ad0,3,0,nullptr},{"fallout4.esm",0x68043,1,0,nullptr},{"fallout4.esm",0x5e558,2,0,nullptr},{"fallout4.esm",0x5de41,2,0,nullptr},{"fallout4.esm",0x58303,2,0,nullptr},{"fallout4.esm",0x1cbed,3,0,nullptr},{"americarising2.esm",0x147a,2,0,nullptr}};
+static Context locations[]={{"fallout4.esm",0x76a38,2,0,nullptr},{"fallout4.esm",0x681ac,2,0,nullptr},{"fallout4.esm",0x482c2,1,0,nullptr},{"fallout4.esm",0x2cef,1,0,nullptr},{"fallout4.esm",0x22610,1,0,nullptr}};
+static Context sealedCells[]={{"fallout4.esm",0x16d8,5,0,nullptr},{"fallout4.esm",0x48de3,5,0,nullptr},{"fallout4.esm",0x5226e,5,0,nullptr}};
