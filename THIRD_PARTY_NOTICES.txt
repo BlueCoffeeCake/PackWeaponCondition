@@ -1,0 +1,24 @@
+PackWeaponCondition third-party notices
+
+ConditionSystemFramework
+Source: https://github.com/wushen233/ConditionSystemFramework
+Copyright (C) 2026 h_wushen and ConditionSystemFramework contributors.
+IIF ABI declarations were adapted from the author's GPL-3.0-only source.
+The complete GPL version 3 text is in LICENSE; upstream attribution is retained
+in licenses/CSF-COPYRIGHT.txt. The installed author's DLL is a separate dependency.
+No upstream DLL, PDB, SWF, font, MCM package, Papyrus binary or game asset is included.
+
+MinHook and Hacker Disassembler Engine
+Source: https://github.com/TsudaKageyu/minhook
+Original copyright and BSD-style terms are preserved verbatim in
+third_party/minhook/LICENSE.txt and in the vendored source headers. The vendored
+snapshot is recorded by file hash in source-manifest.json; no upstream release
+version or signature is claimed for it.
+
+Compatibility declarations
+The adapter uses documented F4SE interfaces, native layout information from the
+exact framework's published PDB and compatibility guard bytes/offsets. Relevant
+engine-header references: https://github.com/alandtse/CommonLibF4 and
+https://github.com/libxse/commonlibf4. No CommonLib build library is vendored.
+Minimal byte signatures are compatibility checks, not complete function bodies.
+No Bethesda executable, game assets or third-party mod package is redistributed.

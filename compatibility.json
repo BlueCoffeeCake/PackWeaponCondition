@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0.0",
+  "game": "Fallout 4 1.10.163",
+  "f4se": "0.6.23",
+  "framework": "Condition System Framework 1.1.1",
+  "frameworkSHA256": "807ae4d38b56dd05a0cb246de64b6277035e55f613dec2cdf1ff3a7eb4524f05",
+  "managedWeaponRecords": 703,
+  "ammoIdentifiers": 290,
+  "ownedPluginRecords": 6,
+  "sourcePluginSHA256": "0fef71d20a268644fc69c4a29bcf41330849ab7432d469abf3e661a82a7bf868",
+  "nativeBuildTested": false,
+  "signed": false,
+  "runtimeTested": false
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "native/Bindings.h",
+    "sha256": "863b5d3e066f64238f81713b21013c1e8b6efe1591e0bad6cd6a0d472680e5a1",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/ConditionPolicy.h",
+    "sha256": "222743f3985aeccefbdfe80b77c86c9486b0363ee5a54f42da6b0d7c45c79a63",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/Contexts.h",
+    "sha256": "01c4f2bbdc93ae38cbc4054819457f3609466e67d529218afadfea6c927fa9cd",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/EnvironmentBindings.h",
+    "sha256": "3c703efa8e1d304a0187d1a4babfac29018c9cbb4d59b6342afe1d54fbb2e774",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/EnvironmentPolicy.h",
+    "sha256": "62a0a2793dd1f1fb2db3e851291c551874f3fd107a78f0ff4703243d55c50b36",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/PackWeaponCondition.cpp",
+    "sha256": "5aa74854833fb85026d4f470f5127c7f4f940fd039e409098271845d6139f122",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/RadstormCatalog.h",
+    "sha256": "a559f56a9ce45faca19262d0f5bb28ed9d05239198a41eb22d3a63e2d24a30bf",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/TestCondition.cpp",
+    "sha256": "b41119eac12ef9671ff2f06cc6fce615fa73c8dbf24e19de2d4ac08ff615f8df",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/TestEnvironment.cpp",
+    "sha256": "7b3914cf5dfc085c13b5674ee8488fda7e9d8a28b63c9de5816728921e850438",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/TestHooks.cpp",
+    "sha256": "23bb0f00095512c93243ecd9b0cbc09ce81d0f3587da2140a9f01395424c8a6c",
+    "nativeSourceUnchanged": true
+  },
+  {
+    "file": "native/WeaponCatalog.h",
+    "sha256": "2a5fb9f3b3bf044e4ac75eb6a2ae6a13e24024874add969915fc3d5124168592",
+    "nativeSourceUnchanged": true
+  }
+]

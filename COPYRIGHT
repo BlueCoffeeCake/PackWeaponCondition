@@ -1,0 +1,5 @@
+Copyright (C) 2026 PackWeaponCondition contributors
+
+Custom integration source and data: GPL-3.0-only.
+Adapted CSF/IIF declarations retain the upstream GPL-3.0-only obligations.
+Vendored MinHook/HDE retain their original notices and license.

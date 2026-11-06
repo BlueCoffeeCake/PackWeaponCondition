@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "description": "SHA256 of every release source file except this manifest itself.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 72,
+      "sha256": "a64647d512c5e214a807cf016d075358163b2b09f8dd14c97413cd701fc343b5"
+    },
+    {
+      "path": ".github/workflows/signing.yml",
+      "size": 2530,
+      "sha256": "8222aa85fb72d5cfda2096f83d8fd9e9ba2eef01b064bba1de292409389c3b12"
+    },
+    {
+      "path": ".github/workflows/source-checks.yml",
+      "size": 437,
+      "sha256": "2a64e93697fddffe845313214163aff1f284ab95241843ff071b915d56caec37"
+    },
+    {
+      "path": ".gitignore",
+      "size": 121,
+      "sha256": "3334c061e72a872e619765b8d0504e7bdf8127d61b3209a8b2094f1c1a03b7e7"
+    },
+    {
+      "path": "CMakeLists.txt",
+      "size": 1654,
+      "sha256": "a4bbec540a2890bc3d387143c2373120bfc77ef5bfeeb712dd93408656b80bee"
+    },
+    {
+      "path": "compatibility.json",
+      "size": 470,
+      "sha256": "4849a2f9fb4f2478ec424251bb6f9f85fdccf96b521d1fea46cc94c66283987d"
+    },
+    {
+      "path": "config/F4SE/Plugins/ConditionSystemFramework/Durability/Consumption/Ammos/PackAmmos.json",
+      "size": 11130,
+      "sha256": "40fc148731d8bc32ca570e01b2f4d8a599e63d0196ff88c42c071bfa63e96afa"
+    },
+    {
+      "path": "config/F4SE/Plugins/ConditionSystemFramework/Durability/Consumption/Weapons/VanillaWeapons.json",
+      "size": 181365,
+      "sha256": "ee4d43dfeecd6db4206ade69ab32fe7187c24d66a4b14ff6051df9a179cb6ff9"
+    },
+    {
+      "path": "config/F4SE/Plugins/PackWeaponCondition.ini",
+      "size": 107,
+      "sha256": "7c4e3a14706a8f702f13ea24b0e687b31e2b96020fe6474d2e0e5eb617cda431"
+    },
+    {
+      "path": "CONTRIBUTING.txt",
+      "size": 490,
+      "sha256": "be3408b3884fe92fe43e27856b202fad8a452b98594946eb0772e69b578da143"
+    },
+    {
+      "path": "COPYRIGHT",
+      "size": 242,
+      "sha256": "318f2f892f263997b2002fe91f003b3cbf0fcdd653305722932c8310851818b6"
+    },
+    {
+      "path": "docs/Privacy.txt",
+      "size": 643,
+      "sha256": "7068d99624c6389d559419167dff889a8b4c13a6bd4bf3263e6f9faf84a02210"
+    },
+    {
+      "path": "docs/ReleaseChecks.txt",
+      "size": 1004,
+      "sha256": "09b6f861f2480dfcff68eb1b9e87e0dbc1f5f42a1434b0776ab3f50b5e41972d"
+    },
+    {
+      "path": "docs/SigningPolicy.txt",
+      "size": 1750,
+      "sha256": "a974b2ebb877aab681021cd53c9d495c65dc0829df60290c5aebb59ae265bdbe"
+    },
+    {
+      "path": "LICENSE",
+      "size": 35823,
+      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+    },
+    {
+      "path": "licenses/CSF-COPYRIGHT.txt",
+      "size": 220,
+      "sha256": "8f7ecfa866a079cc5b674a14d2d58824a16bd94559b007b79b6efa9b6b9103c2"
+    },
+    {
+      "path": "native/Bindings.h",
+      "size": 7708,
+      "sha256": "863b5d3e066f64238f81713b21013c1e8b6efe1591e0bad6cd6a0d472680e5a1"
+    },
+    {
+      "path": "native/ConditionPolicy.h",
+      "size": 1641,
+      "sha256": "222743f3985aeccefbdfe80b77c86c9486b0363ee5a54f42da6b0d7c45c79a63"
+    },
+    {
+      "path": "native/Contexts.h",
+      "size": 689,
+      "sha256": "01c4f2bbdc93ae38cbc4054819457f3609466e67d529218afadfea6c927fa9cd"
+    },
+    {
+      "path": "native/EnvironmentBindings.h",
+      "size": 485,
+      "sha256": "3c703efa8e1d304a0187d1a4babfac29018c9cbb4d59b6342afe1d54fbb2e774"
+    },
+    {
+      "path": "native/EnvironmentPolicy.h",
+      "size": 1397,
+      "sha256": "62a0a2793dd1f1fb2db3e851291c551874f3fd107a78f0ff4703243d55c50b36"
+    },
+    {
+      "path": "native/PackWeaponCondition.cpp",
+      "size": 27946,
+      "sha256": "5aa74854833fb85026d4f470f5127c7f4f940fd039e409098271845d6139f122"
+    },
+    {
+      "path": "native/RadstormCatalog.h",
+      "size": 508,
+      "sha256": "a559f56a9ce45faca19262d0f5bb28ed9d05239198a41eb22d3a63e2d24a30bf"
+    },
+    {
+      "path": "native/TestCondition.cpp",
+      "size": 8837,
+      "sha256": "b41119eac12ef9671ff2f06cc6fce615fa73c8dbf24e19de2d4ac08ff615f8df"
+    },
+    {
+      "path": "native/TestEnvironment.cpp",
+      "size": 2547,
+      "sha256": "7b3914cf5dfc085c13b5674ee8488fda7e9d8a28b63c9de5816728921e850438"
+    },
+    {
+      "path": "native/TestHooks.cpp",
+      "size": 2036,
+      "sha256": "23bb0f00095512c93243ecd9b0cbc09ce81d0f3587da2140a9f01395424c8a6c"
+    },
+    {
+      "path": "native/WeaponCatalog.h",
+      "size": 38233,
+      "sha256": "2a5fb9f3b3bf044e4ac75eb6a2ae6a13e24024874add969915fc3d5124168592"
+    },
+    {
+      "path": "native-source-provenance.json",
+      "size": 1812,
+      "sha256": "8ec396d8c6a87cecb45c51ef0c17b7404763673372635482748e48c84c44b3f2"
+    },
+    {
+      "path": "README.txt",
+      "size": 3478,
+      "sha256": "b3ee61148f1f94fd1a3767d3e815dee7acd73e9f93ad0e32eae7a9b02fc002b5"
+    },
+    {
+      "path": "resources/version.rc",
+      "size": 810,
+      "sha256": "51a504e8c1a0859ada823edb32d69cd191d306b8b459148ab83f1025718f3f85"
+    },
+    {
+      "path": "scripts/build_plugin.py",
+      "size": 880,
+      "sha256": "f3084744b6c8f933628f5a0c2b1d1cbcf042b454a78ca7ef2981e333f6dbc369"
+    },
+    {
+      "path": "scripts/validate_source.py",
+      "size": 2937,
+      "sha256": "27f4c54917fe3af70337776fc607ddcb9ce3136160bb455afac9d43c56e6291e"
+    },
+    {
+      "path": "signing/artifact-configuration.xml",
+      "size": 451,
+      "sha256": "47c09b5db274e423810b1b74dab1d033e3f6de1a0b375389470e2de0d5001d69"
+    },
+    {
+      "path": "source/plugin.json",
+      "size": 7497,
+      "sha256": "62e25b4a8c2bbeededce53e8bf05ae4f13713a2c4c0ed8abb0cd769821daa244"
+    },
+    {
+      "path": "third_party/minhook/include/MinHook.h",
+      "size": 7714,
+      "sha256": "d5cf8db333895134398c7f69bac43f232835fda1cccbd86875c654cd69989b23"
+    },
+    {
+      "path": "third_party/minhook/LICENSE.txt",
+      "size": 4446,
+      "sha256": "4f21f857550d7be854da6ea5f2da4e6775ca4e3fbb535e4f3d961c47d0bf3335"
+    },
+    {
+      "path": "third_party/minhook/src/buffer.c",
+      "size": 10138,
+      "sha256": "e6ec0912f8b017f4d3108d5a50ec972dd4f6991edb9aae5b5748c16f2713db64"
+    },
+    {
+      "path": "third_party/minhook/src/buffer.h",
+      "size": 1862,
+      "sha256": "175ec5496c020509cf4c7670322b51b5bcd5b63a345bfefc4a19b43675857fa7"
+    },
+    {
+      "path": "third_party/minhook/src/hde/hde32.c",
+      "size": 17203,
+      "sha256": "2dd2e2ed9c76e65daa0c2f6023bc38dc80bc5c62448cfdc65a098be8339a8bde"
+    },
+    {
+      "path": "third_party/minhook/src/hde/hde32.h",
+      "size": 2555,
+      "sha256": "754579fbcec5f64fa229646ceecb241c0b7f31c8a0bb12370e604c316c569315"
+    },
+    {
+      "path": "third_party/minhook/src/hde/hde64.c",
+      "size": 19297,
+      "sha256": "a49af94bad8e43242828a08e5f9f2182a9acd4f8dbc6846847a296f796975512"
+    },
+    {
+      "path": "third_party/minhook/src/hde/hde64.h",
+      "size": 2750,
+      "sha256": "ffee8c552a9010cadd3b3bc07c0f82e9b5b681b13982fb559a227bf287009fc9"
+    },
+    {
+      "path": "third_party/minhook/src/hde/pstdint.h",
+      "size": 1701,
+      "sha256": "975488009779ea99c7e04b83a160397d5cd7195cb5bf6ad79180805f756c7d00"
+    },
+    {
+      "path": "third_party/minhook/src/hde/table32.h",
+      "size": 3581,
+      "sha256": "1ad9f42b009e839457eb1d78e790f32903d6c66a5f64980da90c0843f9cf5951"
+    },
+    {
+      "path": "third_party/minhook/src/hde/table64.h",
+      "size": 3651,
+      "sha256": "769ffac902895554ae0709686a94688204cc7dd975504f71d1ba58a17485d716"
+    },
+    {
+      "path": "third_party/minhook/src/hook.c",
+      "size": 27584,
+      "sha256": "c6eec4f8dc5fb6513347c3f44fbdb25ca0bba7a2bcbe141d238c7da97094cd9d"
+    },
+    {
+      "path": "third_party/minhook/src/trampoline.c",
+      "size": 11034,
+      "sha256": "58ae2dcc65317983535963654bb10a4398dae4a90da08af1007ab1dcf0db82a9"
+    },
+    {
+      "path": "third_party/minhook/src/trampoline.h",
+      "size": 3900,
+      "sha256": "c93c66f8db04561f3345835f1185451f61043c1549e33425d87af86448580379"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.txt",
+      "size": 1374,
+      "sha256": "632e684629076d7bdfcba1b976d801613d113318bfd953169c8cafdcfbf11ded"
+    }
+  ]
+}

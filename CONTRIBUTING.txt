@@ -1,0 +1,8 @@
+Contributing
+============
+Changes are accepted under GPL-3.0-only. Retain upstream and third-party notices.
+Use source-only pull requests. Do not add credentials, private configuration,
+game/framework binaries, mod archives, saves or crash logs. Report compatibility
+issues with redacted minimal details. Obtain maintainer review before changing
+native offsets, guards, allocation/ABI code, the catalog or signing workflows.
+Do not disable Windows protection to build or test this project.
