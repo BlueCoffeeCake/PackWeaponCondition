@@ -1,0 +1,7737 @@
+{
+  "profiles": [
+    {
+      "name": "Pack RailwayRifle_Fake",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|221235"
+      ]
+    },
+    {
+      "name": "Pack WorkshopArtilleryWeaponFar",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|063b73"
+      ]
+    },
+    {
+      "name": "Pack WorkshopArtilleryWeaponClose",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|063b72"
+      ]
+    },
+    {
+      "name": "Pack CompPrestonLaserMusket",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|062aa6"
+      ]
+    },
+    {
+      "name": "Pack WorkshopArtilleryWeapon",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|05de31"
+      ]
+    },
+    {
+      "name": "Pack MQ203InstituteLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|05a665"
+      ]
+    },
+    {
+      "name": "Pack TireIron",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|185d25"
+      ]
+    },
+    {
+      "name": "Pack DN160_GrognakAxe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|183fcd"
+      ]
+    },
+    {
+      "name": "Pack Cryolator",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|171b2b"
+      ]
+    },
+    {
+      "name": "Pack BoxingGlove",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|16498f"
+      ]
+    },
+    {
+      "name": "Pack InstituteLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|1633cc"
+      ]
+    },
+    {
+      "name": "Pack SubmachineGun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|15b043"
+      ]
+    },
+    {
+      "name": "Pack PipeSyringer",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|14d09e"
+      ]
+    },
+    {
+      "name": "Pack AAA_StandardGun",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|14831d"
+      ]
+    },
+    {
+      "name": "Pack CombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|14831c"
+      ]
+    },
+    {
+      "name": "Pack PipeRevolver",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|14831b"
+      ]
+    },
+    {
+      "name": "Pack PipeBoltAction",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|14831a"
+      ]
+    },
+    {
+      "name": "Pack ChineseOfficerSword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|147be4"
+      ]
+    },
+    {
+      "name": "Pack RevolutionarySword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|143ab5"
+      ]
+    },
+    {
+      "name": "Pack RollingPin",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|142fab"
+      ]
+    },
+    {
+      "name": "Pack PowerFist",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|11b336"
+      ]
+    },
+    {
+      "name": "Pack PlasmaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|100ae9"
+      ]
+    },
+    {
+      "name": "Pack AlienBlaster",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|0ff995"
+      ]
+    },
+    {
+      "name": "Pack SuperSledge",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0ff964"
+      ]
+    },
+    {
+      "name": "Pack RailwayRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0fe268"
+      ]
+    },
+    {
+      "name": "Pack Broadsider",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0fd11b"
+      ]
+    },
+    {
+      "name": "Pack JunkJet",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0e942b"
+      ]
+    },
+    {
+      "name": "Pack Sledgehammer",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0e7ab9"
+      ]
+    },
+    {
+      "name": "Pack GatlingLaser",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|0e27bc"
+      ]
+    },
+    {
+      "name": "Pack PipeWrench",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0d83bf"
+      ]
+    },
+    {
+      "name": "Pack Switchblade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fdc81"
+      ]
+    },
+    {
+      "name": "Pack WalkingCane",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fdc7d"
+      ]
+    },
+    {
+      "name": "Pack LeadPipe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fc9c3"
+      ]
+    },
+    {
+      "name": "Pack PoolCue",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fa3e8"
+      ]
+    },
+    {
+      "name": "Pack Shishkebab",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fa2fb"
+      ]
+    },
+    {
+      "name": "Pack Ripper",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0fa2f6"
+      ]
+    },
+    {
+      "name": "Pack Flamer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0e5881"
+      ]
+    },
+    {
+      "name": "Pack CombatRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0df42e"
+      ]
+    },
+    {
+      "name": "Pack GammaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|0ddb7c"
+      ]
+    },
+    {
+      "name": "Pack MF_PPK",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0dc8e7"
+      ]
+    },
+    {
+      "name": "Pack GaussRifle",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|0d1eb0"
+      ]
+    },
+    {
+      "name": "Pack 44",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0ce97d"
+      ]
+    },
+    {
+      "name": "Pack Fatman",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|0bd56f"
+      ]
+    },
+    {
+      "name": "Pack LaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "fallout4.esm|09983b"
+      ]
+    },
+    {
+      "name": "Pack Board",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|05c250"
+      ]
+    },
+    {
+      "name": "Pack Knuckles",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|05524b"
+      ]
+    },
+    {
+      "name": "Pack DoubleBarrelShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|092217"
+      ]
+    },
+    {
+      "name": "Pack Knife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|0913ca"
+      ]
+    },
+    {
+      "name": "Pack BaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|08e736"
+      ]
+    },
+    {
+      "name": "Pack Baton",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|08c14d"
+      ]
+    },
+    {
+      "name": "Pack HuntingRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|04f46a"
+      ]
+    },
+    {
+      "name": "Pack MissileLauncher",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|03f6f8"
+      ]
+    },
+    {
+      "name": "Pack LaserMusket",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|01dacf"
+      ]
+    },
+    {
+      "name": "Pack 10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|004822"
+      ]
+    },
+    {
+      "name": "Pack AssaultRifle",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|00463f"
+      ]
+    },
+    {
+      "name": "Pack Minigun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|01f669"
+      ]
+    },
+    {
+      "name": "Pack PipeGun",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "fallout4.esm|024f55"
+      ]
+    },
+    {
+      "name": "Pack Machete",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fallout4.esm|033fe0"
+      ]
+    },
+    {
+      "name": "Pack DLC01LightningGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "dlcrobot.esm|003e07"
+      ]
+    },
+    {
+      "name": "Pack DLC01MrHandyBuzzBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcrobot.esm|0020f8"
+      ]
+    },
+    {
+      "name": "Pack DLC03_MeatHook",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlccoast.esm|04b5f4"
+      ]
+    },
+    {
+      "name": "Pack DLC03_LeverGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlccoast.esm|02c8b0"
+      ]
+    },
+    {
+      "name": "Pack DLC03_RadiumRifle",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlccoast.esm|025fc4"
+      ]
+    },
+    {
+      "name": "Pack DLC03_HarpoonGun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlccoast.esm|010b81"
+      ]
+    },
+    {
+      "name": "Pack DLC03_PoleHook",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlccoast.esm|009582"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunYellow",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d9a"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunWhite",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d99"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunGlow",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d98"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunOrange",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d97"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunRed",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d96"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunGreen",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d95"
+      ]
+    },
+    {
+      "name": "Pack DLC05PaintballGunBlue",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d92"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPalmGold",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d81"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPalmSilver",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d7b"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyBlue",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d2a"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyCrackle",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d29"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyYellow",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d28"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyPink",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000d27"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponWeatherRain",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a9b"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponWeatherRadstorm",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a9a"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponWeatherClear",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a99"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyRed",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a98"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponPeonyGreen",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a97"
+      ]
+    },
+    {
+      "name": "Pack DLC05WorkshopFireworkWeaponMinutemenFlare",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcworkshop02.esm|000a96"
+      ]
+    },
+    {
+      "name": "Pack DLC04_CommieWhacker",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcnukaworld.esm|052926"
+      ]
+    },
+    {
+      "name": "Pack DLC04_44_Disciples",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|05221e"
+      ]
+    },
+    {
+      "name": "Pack DLC04_Board_Pack",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcnukaworld.esm|052215"
+      ]
+    },
+    {
+      "name": "Pack DLC04_Sledgehammer_Pack",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcnukaworld.esm|046a29"
+      ]
+    },
+    {
+      "name": "Pack DLC04_Revolver",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|0415b3"
+      ]
+    },
+    {
+      "name": "Pack DLC04_BaseballBat_Pack",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcnukaworld.esm|0396a7"
+      ]
+    },
+    {
+      "name": "Pack DLC04_HandMadeGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|033b60"
+      ]
+    },
+    {
+      "name": "Pack DLC04_DisciplesBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "dlcnukaworld.esm|01aabc"
+      ]
+    },
+    {
+      "name": "Pack DLC04AnimatronicAlienBlaster",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "dlcnukaworld.esm|01a5be"
+      ]
+    },
+    {
+      "name": "Pack DLC04_PaddleBall",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|00a6c0"
+      ]
+    },
+    {
+      "name": "Pack DLC04_ThirstZapper",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|007bc8"
+      ]
+    },
+    {
+      "name": "Pack DLC04_AcidSoaker",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dlcnukaworld.esm|007bc6"
+      ]
+    },
+    {
+      "name": "Pack L118A2",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "l118a2.esp|000002"
+      ]
+    },
+    {
+      "name": "Pack C14Timberwolf",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "l118a2.esp|00206c"
+      ]
+    },
+    {
+      "name": "Pack NV_CombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "nvvault1080.esp|006fa9"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_Deagle",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|000f9c"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SteyrAUG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|000fbf"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNAKM_Preset_AKM",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|0017d3"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNAKM_Preset_AKS74U",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|001852"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNAKM_Preset_RPK",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|001854"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SteyrAUG_Preset_A1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00185b"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SteyrAUG_Preset_Para",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00185c"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SteyrAUG_Preset_HBAR",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00185d"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_ASVAL_Preset_ASVAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|001862"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_ASVAL_Preset_VSS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|001863"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNG36_Preset_G36C",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|002a40"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNG36_Preset_MG36",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|002a41"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNMk23Tokarev",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|006c94"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_ASVAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00704a"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNG36",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00818c"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPN_M9A1",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|00a94a"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_M82A1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|0123a3"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_M249SAW",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|0178d6"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_ASVAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e4"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_Deagle",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e5"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_M249SAW",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e6"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_M82A1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e7"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_SG550",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e8"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_SPAS-12",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5e9"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_SteyrAUG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5ea"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_SV-98",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5eb"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPN_M9A1",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5ec"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPNAKM",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5ed"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPNG36",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5ee"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPNM1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5ef"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPNMk23Tokarev",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5f0"
+      ]
+    },
+    {
+      "name": "Pack Cheat_CombinedArms_WPNPL14",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c5f1"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_ASVAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c613"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_Deagle",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c614"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_M249SAW",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c615"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_M82A1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c616"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_SG550",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c617"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_SPAS-12",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c618"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_SteyrAUG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c619"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_SV-98",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61a"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPN_M9A1",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61b"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPNAKM",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61c"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPNG36",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61d"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPNM1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61e"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPNMk23Tokarev",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c61f"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_CombinedArms_WPNPL14",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01c620"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SPAS-12_Vault81",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|01e4b0"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNAKM",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|047465"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SG550",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|0474d7"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNPL14",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|047580"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SV-98",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|04760d"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_WPNM1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|0477f0"
+      ]
+    },
+    {
+      "name": "Pack CombinedArms_SPAS-12",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "combinedarmsnv.esp|083528"
+      ]
+    },
+    {
+      "name": "Pack AR_EnclaveFlamer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "americarising2.esm|034a7b"
+      ]
+    },
+    {
+      "name": "Pack AR_EnclaveGatlingLaser",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "americarising2.esm|02c587"
+      ]
+    },
+    {
+      "name": "Pack AR_EnhancedStunBaton",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "americarising2.esm|0241be"
+      ]
+    },
+    {
+      "name": "Pack AR_EnclaveAE-9A1Gun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "americarising2.esm|01a302"
+      ]
+    },
+    {
+      "name": "Pack AR_EnclavePlasmaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "americarising2.esm|01a301"
+      ]
+    },
+    {
+      "name": "Pack UltraciteGatlingLaser",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ultracitepa.esl|00007a"
+      ]
+    },
+    {
+      "name": "Pack UltraciteLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ultracitepa.esl|00007b"
+      ]
+    },
+    {
+      "name": "Pack EnclavePlasmaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "enclavepack.esl|000053"
+      ]
+    },
+    {
+      "name": "Pack detectiverevolver",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "detectivepistol.esl|000f99"
+      ]
+    },
+    {
+      "name": "Pack Vlt04CreatorBlaster",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "vault4.esp|12b708"
+      ]
+    },
+    {
+      "name": "Pack DP_Ivan10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|7724fd"
+      ]
+    },
+    {
+      "name": "Pack DP_CitoShinySlugger",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|95de09"
+      ]
+    },
+    {
+      "name": "Pack DP_Tina10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|ae751c"
+      ]
+    },
+    {
+      "name": "Pack DP_TinaKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|ae751d"
+      ]
+    },
+    {
+      "name": "Pack DP_NatRevolver",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|b746cb"
+      ]
+    },
+    {
+      "name": "Pack DP_NatBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|b746cc"
+      ]
+    },
+    {
+      "name": "Pack DP_GLM_ProtestSignGLM",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|b78b69"
+      ]
+    },
+    {
+      "name": "Pack DP_GLM_ProtestSignNotFeral",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|b78b6d"
+      ]
+    },
+    {
+      "name": "Pack DP_GLM_ProtestSignFDCS",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|b78b6e"
+      ]
+    },
+    {
+      "name": "Pack DP_JanitorPipeWrench",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|06da3d"
+      ]
+    },
+    {
+      "name": "Pack DP_LeadPipe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|06da40"
+      ]
+    },
+    {
+      "name": "Pack DP_StellaDeliverer",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|1913c4"
+      ]
+    },
+    {
+      "name": "Pack DP_EdenKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|1e6d10"
+      ]
+    },
+    {
+      "name": "Pack DP_EdenSword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|1e6d14"
+      ]
+    },
+    {
+      "name": "Pack DP_MurphyRevolver",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|20d6a0"
+      ]
+    },
+    {
+      "name": "Pack DP_MurphyShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|20d6a1"
+      ]
+    },
+    {
+      "name": "Pack DP_MurphyBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|20d6a2"
+      ]
+    },
+    {
+      "name": "Pack DP_EdenMachete",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|24d957"
+      ]
+    },
+    {
+      "name": "Pack DP_EdenKarambit",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|24d960"
+      ]
+    },
+    {
+      "name": "Pack DP_JasonMachete",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|338bb5"
+      ]
+    },
+    {
+      "name": "Pack DP_KelloggPistol",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|3e7f9e"
+      ]
+    },
+    {
+      "name": "Pack DP_HarleyQuinnBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "depravity.esp|5a461a"
+      ]
+    },
+    {
+      "name": "Pack DP_HarleyPistol",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|5b130c"
+      ]
+    },
+    {
+      "name": "Pack DP_IvanCombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "depravity.esp|74bcea"
+      ]
+    },
+    {
+      "name": "Pack FCR_DanceBlaster",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "aa fusioncityrising.esp|007141"
+      ]
+    },
+    {
+      "name": "Pack FCR_WPMop",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "aa fusioncityrising.esp|003d09"
+      ]
+    },
+    {
+      "name": "Pack CompanionPeterGun",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "aa fusioncityrising.esp|00184c"
+      ]
+    },
+    {
+      "name": "Pack CompanionPeterBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "aa fusioncityrising.esp|0027a3"
+      ]
+    },
+    {
+      "name": "Pack GRS_AlienBlaster",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "radioactivestories.esp|00b9b2"
+      ]
+    },
+    {
+      "name": "Pack JWDeliverer",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "radioactivestories.esp|01657e"
+      ]
+    },
+    {
+      "name": "Pack JWCombatRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "radioactivestories.esp|017c60"
+      ]
+    },
+    {
+      "name": "Pack GRS_PenOfDoom",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "radioactivestories.esp|01f8c8"
+      ]
+    },
+    {
+      "name": "Pack JWHuntingRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "radioactivestories.esp|002687"
+      ]
+    },
+    {
+      "name": "Pack JWBaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "radioactivestories.esp|005462"
+      ]
+    },
+    {
+      "name": "Pack GRS_ChineseOfficerSword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "radioactivestories.esp|007350"
+      ]
+    },
+    {
+      "name": "Pack ",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "radioactivestories.esp|00b9b1"
+      ]
+    },
+    {
+      "name": "Pack _gkx_weap_fishingpole",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "gkx apple tree.esp|00000d"
+      ]
+    },
+    {
+      "name": "Pack Flashy_Weapon_Hatchet",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "flashy_personalessentials.esp|00e77c"
+      ]
+    },
+    {
+      "name": "Pack Flashy_Weapon_Wrench",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "flashy_personalessentials.esp|021eb4"
+      ]
+    },
+    {
+      "name": "Pack WPN_SR25",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "escape from boston - ar-10 pack.esp|000fd7"
+      ]
+    },
+    {
+      "name": "Pack WPN_RSASS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "escape from boston - ar-10 pack.esp|0009dc"
+      ]
+    },
+    {
+      "name": "Pack WPN_HK417",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "escape from boston - ar-10 pack.esp|000a0d"
+      ]
+    },
+    {
+      "name": "Pack WPN_BH98K",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bh_kar98k.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack WPN_BHK98B1",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "bh_kar98k.esp|0008c4"
+      ]
+    },
+    {
+      "name": "Pack WPN_BH98KT",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bh_kar98k.esp|00092c"
+      ]
+    },
+    {
+      "name": "Pack 00BIABIAUniqLOSLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|0091d1"
+      ]
+    },
+    {
+      "name": "Pack XR92_Common",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|00003b"
+      ]
+    },
+    {
+      "name": "Pack 00BIAKodiakSuperSledge",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepbiaredux.esp|0091ce"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRCombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071500"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVR44",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071501"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|071509"
+      ]
+    },
+    {
+      "name": "Pack 00BIAXR92",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|02fc30"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRPipeRevolver",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|07150c"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRRipper",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepbiaredux.esp|07150d"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepbiaredux.esp|071508"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRPipeGun",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|07150b"
+      ]
+    },
+    {
+      "name": "Pack 00BIABIALOSColvinLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|11f899"
+      ]
+    },
+    {
+      "name": "Pack 00BIABIALOSLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|0091cf"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVR10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|0714fe"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRDoubleBarrelShotgun1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071505"
+      ]
+    },
+    {
+      "name": "Pack 00BIAHockeyStick",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepbiaredux.esp|051e0e"
+      ]
+    },
+    {
+      "name": "Pack XR92_PSG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|000038"
+      ]
+    },
+    {
+      "name": "Pack XR92_Knife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepbiaredux.esp|00003a"
+      ]
+    },
+    {
+      "name": "Pack XR92_SMG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|000039"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRHuntingRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071506"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRCombatRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|0714ff"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRAssaultRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|064c40"
+      ]
+    },
+    {
+      "name": "Pack 00BIABIAUniqEncPlasmaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|0091d0"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRChineseAR",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|01244b"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRDoubleBarrelShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071504"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRXR92",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|099773"
+      ]
+    },
+    {
+      "name": "Pack 00BIATeslaCanon",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|0c44b5"
+      ]
+    },
+    {
+      "name": "Pack 00BIABIALOSColvinLaserGunBroken",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csepbiaredux.esp|11f89b"
+      ]
+    },
+    {
+      "name": "Pack 00BIAR91",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|00526b"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRLeverGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071502"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRHandMadeGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|071503"
+      ]
+    },
+    {
+      "name": "Pack 00BIAVRPipeBoltAction",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|07150a"
+      ]
+    },
+    {
+      "name": "Pack 00BIAXR92PSG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|005267"
+      ]
+    },
+    {
+      "name": "Pack 00BIAXR92Unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbiaredux.esp|04a737"
+      ]
+    },
+    {
+      "name": "Pack Eli_CombatShotgun_Unique_LoveLost",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eli_armour_compendium.esp|00d64d"
+      ]
+    },
+    {
+      "name": "Pack 00BMsubsonic45",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbountymod.esp|01ae5f"
+      ]
+    },
+    {
+      "name": "Pack 00BMMarshRevolver",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "csepbountymod.esp|046355"
+      ]
+    },
+    {
+      "name": "Pack American180_LLinjected",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "american180nv.esp|0009c4"
+      ]
+    },
+    {
+      "name": "Pack American180",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "american180nv.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack American180_Unique_Sil22",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "american180nv.esp|0009c5"
+      ]
+    },
+    {
+      "name": "Pack Ak5C_MoraKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ak5c.esp|002e44"
+      ]
+    },
+    {
+      "name": "Pack Ak5C",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak5c.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack Ak5C_Christmas",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak5c.esp|0037d8"
+      ]
+    },
+    {
+      "name": "Pack Ak5C_BlueTape",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak5c.esp|00471d"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Zealots",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|001a32"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Minute",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|001a34"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Brotherhood",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|001a37"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_NetoBrazil",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|0033c3"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Zacc",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|003e9a"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_NaiRae",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|004758"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_SMH",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|004ba5"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Haru",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|004ba6"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_BananaSplit",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|004ba7"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Semiauto",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|0059d2"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Auto",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|0059d3"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Sniper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|00624c"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Machete_Kukri",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "wana_sa58.esp|00c759"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|000801"
+      ]
+    },
+    {
+      "name": "Pack Wana_FNFAL_Operator",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wana_sa58.esp|001a2a"
+      ]
+    },
+    {
+      "name": "Pack EllenQuestRewardCombatRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ellen.esp|019db8"
+      ]
+    },
+    {
+      "name": "Pack WPN_BHPP41",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bh_ppsh41.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack Uzi",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "imiuzi.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack WPNBHSTG44",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bh_stg44.esp|000801"
+      ]
+    },
+    {
+      "name": "Pack WPN_BHG43",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bh_g43.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack GreaseGun",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "greasegunsmg.esp|000001"
+      ]
+    },
+    {
+      "name": "Pack M60",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m60-m60e3.esp|00080d"
+      ]
+    },
+    {
+      "name": "Pack M60_Rambo",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m60-m60e3.esp|000831"
+      ]
+    },
+    {
+      "name": "Pack M60E3",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m60-m60e3.esp|00084f"
+      ]
+    },
+    {
+      "name": "Pack M1928A1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m1928a1.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WPNAKS74u",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak74m.esp|00087e"
+      ]
+    },
+    {
+      "name": "Pack WPNAK74MUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak74m.esp|000947"
+      ]
+    },
+    {
+      "name": "Pack WPNAK74M",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ak74m.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack HellstormMissileLauncher",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hellstormmissilelauncher.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack HK51",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "g3a3.esp|0008bd"
+      ]
+    },
+    {
+      "name": "Pack G3SD",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "g3a3.esp|000979"
+      ]
+    },
+    {
+      "name": "Pack HEAT",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "g3a3.esp|0009c1"
+      ]
+    },
+    {
+      "name": "Pack G3",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "g3a3.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack _mgp_Aquila",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "aquila.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack LaLongue_Carabine_Winchester",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wincowbowrepeater.esp|011699"
+      ]
+    },
+    {
+      "name": "Pack CowboyRepeater_Winchester",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wincowbowrepeater.esp|004b83"
+      ]
+    },
+    {
+      "name": "Pack WPNM9A3",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m9a3.esp|0008d3"
+      ]
+    },
+    {
+      "name": "Pack WPNM9A3_Samurai",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m9a3.esp|0008f4"
+      ]
+    },
+    {
+      "name": "Pack WPNM9A3_LeveledLists",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m9a3.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack ASH127",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ash127.esp|000fa8"
+      ]
+    },
+    {
+      "name": "Pack ASH127_Unique_Vodyanoy",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ash127.esp|000871"
+      ]
+    },
+    {
+      "name": "Pack WPNHuK_MP5",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hk_mp5.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WPNHuK_MP5K",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hk_mp5.esp|000883"
+      ]
+    },
+    {
+      "name": "Pack Sten",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sten.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack Sten_unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sten.esp|00095c"
+      ]
+    },
+    {
+      "name": "Pack WPN_GIAT_FAMASUNIQUE",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "giat_famas.esp|0008f8"
+      ]
+    },
+    {
+      "name": "Pack WPN_GIAT_FAMAS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "giat_famas.esp|000ff1"
+      ]
+    },
+    {
+      "name": "Pack WPNHuKG36",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "g36complex.esp|000f9e"
+      ]
+    },
+    {
+      "name": "Pack WPNHuK_UMP",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hk_ump.esp|000fce"
+      ]
+    },
+    {
+      "name": "Pack WPN9x39VSS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "9x39project.esp|000f9b"
+      ]
+    },
+    {
+      "name": "Pack WPN9x39VAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "9x39project.esp|000851"
+      ]
+    },
+    {
+      "name": "Pack WPNMk23_Unique_Fox",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hrp_mk23.esp|0008c7"
+      ]
+    },
+    {
+      "name": "Pack WPNMk23",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hrp_mk23.esp|000fa0"
+      ]
+    },
+    {
+      "name": "Pack WPNKrebs",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "krebs.esp|000fa4"
+      ]
+    },
+    {
+      "name": "Pack M72",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "m72gaussrifle.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_44_Magnum",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nv_44_magnum.esp|00080e"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_44_Magnum_Unique",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nv_44_magnum.esp|000892"
+      ]
+    },
+    {
+      "name": "Pack LeeEnfield_Obrez",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "leeenfieldno4mki.esp|0000e1"
+      ]
+    },
+    {
+      "name": "Pack LeeEnfield",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "leeenfieldno4mki.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack P90",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "p90.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack 00CWBHPUnique",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cw9mmpistol.esp|000611"
+      ]
+    },
+    {
+      "name": "Pack 00CWBHPUnique2",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cw9mmpistol.esp|000612"
+      ]
+    },
+    {
+      "name": "Pack 00CWBHP",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cw9mmpistol.esp|000fa5"
+      ]
+    },
+    {
+      "name": "Pack Deagle_Unique_nighthawk",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "deserteaglenv.esp|0008b5"
+      ]
+    },
+    {
+      "name": "Pack Deagle",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "deserteaglenv.esp|000f9c"
+      ]
+    },
+    {
+      "name": "Pack Deagle_Unique_OF",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "deserteaglenv.esp|0008b6"
+      ]
+    },
+    {
+      "name": "Pack Deagle_LLInjected",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "deserteaglenv.esp|0008bb"
+      ]
+    },
+    {
+      "name": "Pack Deagle_Unique_Gold",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "deserteaglenv.esp|0008b7"
+      ]
+    },
+    {
+      "name": "Pack WPNAUGA1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "aug-a1.esp|000fad"
+      ]
+    },
+    {
+      "name": "Pack BHM24Melee",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "bh_grenadepack_german.esp|00003d"
+      ]
+    },
+    {
+      "name": "Pack WPNBO6_BO6Erie",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "[cod]bo6erie.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack crossweap_Cryo_crafted",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_cryolance.esp|000823"
+      ]
+    },
+    {
+      "name": "Pack crossweap_Cryo",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_cryolance.esp|000822"
+      ]
+    },
+    {
+      "name": "Pack WPNUSP",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hkusp9mm.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack WPNCrowbar",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "hkusp9mm.esp|000863"
+      ]
+    },
+    {
+      "name": "Pack WPNUSPGORDON",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "hkusp9mm.esp|00088a"
+      ]
+    },
+    {
+      "name": "Pack F3Flamer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f3flamer.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack FOLONNeeherLewisGun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "folon_lewis.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack Del20_WeapSpear",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutantmenagerie.esm|00520d"
+      ]
+    },
+    {
+      "name": "Pack Del20_OldWorldChrome",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|000f9a"
+      ]
+    },
+    {
+      "name": "Pack Del20_DoubleBarrelShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|00d725"
+      ]
+    },
+    {
+      "name": "Pack Del20_HuntingRifleUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|00e4b2"
+      ]
+    },
+    {
+      "name": "Pack Del20_LaserGunFog",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "mutantmenagerie.esm|011e66"
+      ]
+    },
+    {
+      "name": "Pack Del20_RadiumRifleHarbor",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|011f2b"
+      ]
+    },
+    {
+      "name": "Pack Del20_WeapSpearRaider",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutantmenagerie.esm|0149df"
+      ]
+    },
+    {
+      "name": "Pack Del20_LaserMusketFog",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "mutantmenagerie.esm|016600"
+      ]
+    },
+    {
+      "name": "Pack Del20_HuntingRifleSuper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|04fa52"
+      ]
+    },
+    {
+      "name": "Pack Del20_HandMadeGunUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|0a4192"
+      ]
+    },
+    {
+      "name": "Pack Del20_LaserRCWQuantum",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "mutantmenagerie.esm|0a4310"
+      ]
+    },
+    {
+      "name": "Pack Del20_ShotgunWidowmaker",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutantmenagerie.esm|0dbfda"
+      ]
+    },
+    {
+      "name": "Pack SuperSledge2",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "fortstronger.esm|03849e"
+      ]
+    },
+    {
+      "name": "Pack SS2_Weapon_MedicSyringer",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2.esm|04df4e"
+      ]
+    },
+    {
+      "name": "Pack SS2_PlayerCutscene10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2.esm|04dcdc"
+      ]
+    },
+    {
+      "name": "Pack esk_Powerfist_Atomic",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2.esm|015e8b"
+      ]
+    },
+    {
+      "name": "Pack kgSIM_Baton",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2.esm|0168bc"
+      ]
+    },
+    {
+      "name": "Pack SS2_OdetteShotgun01",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2.esm|01b69f"
+      ]
+    },
+    {
+      "name": "Pack SS2_WC_Charge44",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2.esm|01bbd8"
+      ]
+    },
+    {
+      "name": "Pack SS2_ChargeHuntingRifle",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2.esm|01bbda"
+      ]
+    },
+    {
+      "name": "Pack SS2_WC_GremlinLPP",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2.esm|01d5f5"
+      ]
+    },
+    {
+      "name": "Pack SS2_TargetFinder_Weapon",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2.esm|02197f"
+      ]
+    },
+    {
+      "name": "Pack SS2C2_CassandrasRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter2.esm|016d0e"
+      ]
+    },
+    {
+      "name": "Pack SS2C2_OP02_OldPaulRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter2.esm|02ee48"
+      ]
+    },
+    {
+      "name": "Pack SS2C2_Algernon_CombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter2.esm|02fc04"
+      ]
+    },
+    {
+      "name": "Pack SS2C2_MQ23_LupePlasmaRifle",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2_xpac_chapter2.esm|034b98"
+      ]
+    },
+    {
+      "name": "Pack SS2C2_Weapon_TunedTeslaRifle",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2_xpac_chapter2.esm|101ee8"
+      ]
+    },
+    {
+      "name": "Pack SS2C3_IDRF_Weapon",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter3.esm|005586"
+      ]
+    },
+    {
+      "name": "Pack SS2C3_IDRFHeavy_Weapon",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter3.esm|005623"
+      ]
+    },
+    {
+      "name": "Pack SS2C3_IDRF_Stheno",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2_xpac_chapter3.esm|016fc8"
+      ]
+    },
+    {
+      "name": "Pack skb_Mk19",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb_machinegunsrebirth.esl|00003b"
+      ]
+    },
+    {
+      "name": "Pack skb_AGL",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb_machinegunsrebirth.esl|00003a"
+      ]
+    },
+    {
+      "name": "Pack Skb_FlackGun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb_machinegunsrebirth.esl|000f99"
+      ]
+    },
+    {
+      "name": "Pack skb_Mk22",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb_machinegunsrebirth.esl|000ee2"
+      ]
+    },
+    {
+      "name": "Pack TeslaHeavyGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "teslaheavygun.esl|000fbb"
+      ]
+    },
+    {
+      "name": "Pack BumperSword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|0008b2"
+      ]
+    },
+    {
+      "name": "Pack BrushAxe_Standard",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|0008b3"
+      ]
+    },
+    {
+      "name": "Pack HydrantBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|0008b5"
+      ]
+    },
+    {
+      "name": "Pack BrushAxe_Reaper",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|0008b6"
+      ]
+    },
+    {
+      "name": "Pack TrussBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|0232d4"
+      ]
+    },
+    {
+      "name": "Pack VertibirdBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|02341f"
+      ]
+    },
+    {
+      "name": "Pack HeavySpanner",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "supermutantredux.esp|023422"
+      ]
+    },
+    {
+      "name": "Pack SawBladeShuriken_RailwayRifleDUPLICATE000",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "supermutantredux.esp|02347d"
+      ]
+    },
+    {
+      "name": "Pack Cannon",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "supermutantredux.esp|02beca"
+      ]
+    },
+    {
+      "name": "Pack KFChainBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutilateddeadbodies.esp|030492"
+      ]
+    },
+    {
+      "name": "Pack Eviscerator",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mutilateddeadbodies.esp|01e133"
+      ]
+    },
+    {
+      "name": "Pack KFZweihander",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutilateddeadbodies.esp|02fc0d"
+      ]
+    },
+    {
+      "name": "Pack KFBoneCrusher",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutilateddeadbodies.esp|030491"
+      ]
+    },
+    {
+      "name": "Pack KFCommanod_knife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutilateddeadbodies.esp|031565"
+      ]
+    },
+    {
+      "name": "Pack KFkatana",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mutilateddeadbodies.esp|030490"
+      ]
+    },
+    {
+      "name": "Pack OAR_Jet_VatiwahDildoBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|01a6ba"
+      ]
+    },
+    {
+      "name": "Pack OAR_Ben_Machete1",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|011343"
+      ]
+    },
+    {
+      "name": "Pack OAR_OP_10mm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|007e1d"
+      ]
+    },
+    {
+      "name": "Pack OAR_Gabriel_Hammer",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|00399f"
+      ]
+    },
+    {
+      "name": "Pack OAR_OwenKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|098097"
+      ]
+    },
+    {
+      "name": "Pack OAR_Gabriel_Rifle_Playable",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|002472"
+      ]
+    },
+    {
+      "name": "Pack OAR_Gabriel_Crossbow_Playable",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|002471"
+      ]
+    },
+    {
+      "name": "Pack OAR_NZ_mp40",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|bb01d7"
+      ]
+    },
+    {
+      "name": "Pack OAR_NZ_Assassin_Pistol",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|bb17e5"
+      ]
+    },
+    {
+      "name": "Pack OAR_Sam_Cruel_44",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "outcastsandremnants.esp|0856f8"
+      ]
+    },
+    {
+      "name": "Pack OAR_HitlerAxe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|124763"
+      ]
+    },
+    {
+      "name": "Pack OAR_GrabtharSledgehammer",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|07be03"
+      ]
+    },
+    {
+      "name": "Pack OAR_Pimp_PartyGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "outcastsandremnants.esp|04c82e"
+      ]
+    },
+    {
+      "name": "Pack OAR_TacticalBarbell",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|048a5c"
+      ]
+    },
+    {
+      "name": "Pack OAR_TacticalBarstool",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|048a5b"
+      ]
+    },
+    {
+      "name": "Pack OAR_FrenziedInstituteLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "outcastsandremnants.esp|103085"
+      ]
+    },
+    {
+      "name": "Pack OAR_Ripper_Ash",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "outcastsandremnants.esp|032972"
+      ]
+    },
+    {
+      "name": "Pack OAR_AllieInstituteLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "outcastsandremnants.esp|15ee61"
+      ]
+    },
+    {
+      "name": "Pack OAR_VeronicaPlasmaGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "outcastsandremnants.esp|13534e"
+      ]
+    },
+    {
+      "name": "Pack OAR_BOG_SuperiorAuthorityLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "outcastsandremnants.esp|0279d9"
+      ]
+    },
+    {
+      "name": "Pack WI_BrokenBottle",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mojaveimports.esp|0009b6"
+      ]
+    },
+    {
+      "name": "Pack WI_NukaBreaker",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mojaveimports.esp|034000"
+      ]
+    },
+    {
+      "name": "Pack WI_RepellentStick",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mojaveimports.esp|04e260"
+      ]
+    },
+    {
+      "name": "Pack OfficersSidearm",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "nest_bunker_project.esp|00d963"
+      ]
+    },
+    {
+      "name": "Pack 44AllAmerican",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "nest_bunker_project.esp|0160a8"
+      ]
+    },
+    {
+      "name": "Pack PKM_LevelledList",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "pkmnv.esp|0001e4"
+      ]
+    },
+    {
+      "name": "Pack PKM",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "pkmnv.esp|00033a"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserAFU",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|002e96"
+      ]
+    },
+    {
+      "name": "Pack Wattz_Reflectron",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "wattz3000mkii.esp|00bf85"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserEnclave",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|00c09f"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserTransparent",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|009952"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserPrototype",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|002e94"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserFrostbite",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|0091a7"
+      ]
+    },
+    {
+      "name": "Pack WattzLaserVaultTec",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "wattz3000mkii.esp|0091a8"
+      ]
+    },
+    {
+      "name": "Pack PV_ValkyrieSniperRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "projectvalkyrie.esp|026449"
+      ]
+    },
+    {
+      "name": "Pack WPNM1918",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m1918nv.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack WPNM1918_Craft",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m1918nv.esp|00094f"
+      ]
+    },
+    {
+      "name": "Pack RPD",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "rpd.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack RPDChainSaw",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "rpd.esp|0008af"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_RPD",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "rpd.esp|00093f"
+      ]
+    },
+    {
+      "name": "Pack LeveledList_RPD_ChainSaw",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "rpd.esp|000943"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifle_BayonetKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|00185d"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleHippie",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|004c26"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleSurvivalist",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|0097a5"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleRadium",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|00438c"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleMarksman",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|001857"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleAllAmerican",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|00a878"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|00176f"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRiflePatriot",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|00a879"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_ServiceRifleGauss",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvservicerifleredux.esp|006587"
+      ]
+    },
+    {
+      "name": "Pack llamaCompLaserGun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "llamacompanionheatherv2.esp|0106d6"
+      ]
+    },
+    {
+      "name": "Pack llamaFHSecretWeapon",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "llamacompanionheatherv2.esp|a30523"
+      ]
+    },
+    {
+      "name": "Pack T6M_Autocannon_STD",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "t6m_autocannon.esp|00035f"
+      ]
+    },
+    {
+      "name": "Pack T6M_AC_Bayonet",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "t6m_autocannon.esp|00045b"
+      ]
+    },
+    {
+      "name": "Pack T6M_Autocannon_PAP",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "t6m_autocannon.esp|000531"
+      ]
+    },
+    {
+      "name": "Pack WPNSVD",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "svd.esp|000802"
+      ]
+    },
+    {
+      "name": "Pack R11",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "remingtonm11.esp|000807"
+      ]
+    },
+    {
+      "name": "Pack WV_Myrm_PoolCue",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2wastelandventurers.esp|000b86"
+      ]
+    },
+    {
+      "name": "Pack WV_RollingPin",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2wastelandventurers.esp|001185"
+      ]
+    },
+    {
+      "name": "Pack WV_DoubleBarrelShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2wastelandventurers.esp|0011b5"
+      ]
+    },
+    {
+      "name": "Pack WV_BaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2wastelandventurers.esp|001296"
+      ]
+    },
+    {
+      "name": "Pack WV_Board_Bodhi",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2wastelandventurers.esp|004e16"
+      ]
+    },
+    {
+      "name": "Pack WV_SwordKatanaMistressMystery",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2wastelandventurers.esp|008b62"
+      ]
+    },
+    {
+      "name": "Pack WV_LaserMusket",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ss2wastelandventurers.esp|05ef78"
+      ]
+    },
+    {
+      "name": "Pack WV_PipeRevolverRuin",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2wastelandventurers.esp|05f556"
+      ]
+    },
+    {
+      "name": "Pack Toz194",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "toz194.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack MF_PPK",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "walther_ppk_main.esp|00080b"
+      ]
+    },
+    {
+      "name": "Pack Weap_Eb_1911_Thomas",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eb_1911.esp|000972"
+      ]
+    },
+    {
+      "name": "Pack Weap_Eb_1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eb_1911.esp|000808"
+      ]
+    },
+    {
+      "name": "Pack Weap_Eb_1911_Giant",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eb_1911.esp|0009ea"
+      ]
+    },
+    {
+      "name": "Pack Weap_Eb_Compact1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eb_1911.esp|000941"
+      ]
+    },
+    {
+      "name": "Pack 00DakM202UniqueRaider",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakm202.esp|000758"
+      ]
+    },
+    {
+      "name": "Pack 00DakM202UniqueCommando",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakm202.esp|000759"
+      ]
+    },
+    {
+      "name": "Pack 00DakM202UniqueBlackBox",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakm202.esp|00075e"
+      ]
+    },
+    {
+      "name": "Pack 00DakM202",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakm202.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack mjp_Type76_20",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|005f8a"
+      ]
+    },
+    {
+      "name": "Pack mjp_Type76_Bos1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|00aba5"
+      ]
+    },
+    {
+      "name": "Pack mjp_PTRS41ATR",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|000919"
+      ]
+    },
+    {
+      "name": "Pack mjp_Type76_Gunner",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|01164f"
+      ]
+    },
+    {
+      "name": "Pack mjp_Type76_Bos2",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|01164e"
+      ]
+    },
+    {
+      "name": "Pack ptrs41halberd",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|000a41"
+      ]
+    },
+    {
+      "name": "Pack mjp_Type76",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mjp_ptrs41atr.esp|0009cf"
+      ]
+    },
+    {
+      "name": "Pack SCAR_Unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "scar-l.esp|00272e"
+      ]
+    },
+    {
+      "name": "Pack SCAR",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "scar-l.esp|002e1f"
+      ]
+    },
+    {
+      "name": "Pack SG550",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sg550.esp|000fb4"
+      ]
+    },
+    {
+      "name": "Pack SG550_Unique_Krieg",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sg550.esp|000879"
+      ]
+    },
+    {
+      "name": "Pack WPNM1A",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "m1a.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-Phalanx",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|000bb4"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|000f9b"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-GreedMachine",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|00003d"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-HotRodder",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|00005e"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-FadedGlory",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|00005f"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-RedFlare",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|000072"
+      ]
+    },
+    {
+      "name": "Pack 00SMMGSpadey-Tenderizer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "smmgspadey.esp|000baf"
+      ]
+    },
+    {
+      "name": "Pack WPN_BH19A1",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "eb_1911_bh_a1_addon.esp|000001"
+      ]
+    },
+    {
+      "name": "Pack SV-98",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sv-98.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack SV-98_Unique_Prizrak",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sv-98.esp|0008c7"
+      ]
+    },
+    {
+      "name": "Pack SV-98_Unique_Snaiperskaya",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "sv-98.esp|0008c5"
+      ]
+    },
+    {
+      "name": "Pack WPNMosin",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mosin.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WPNSVU",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "reconpack.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WPNMP443",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "reconpack.esp|00085f"
+      ]
+    },
+    {
+      "name": "Pack win1897",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "win1897.esp|000818"
+      ]
+    },
+    {
+      "name": "Pack OTs33",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ots33pernach.esp|000806"
+      ]
+    },
+    {
+      "name": "Pack WPNPL14",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "pl-14.esp|000fa0"
+      ]
+    },
+    {
+      "name": "Pack praSS2_Keening_Weapon",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2-prarandomaddon.esp|001427"
+      ]
+    },
+    {
+      "name": "Pack praSS2_IndustrialDrill",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2-prarandomaddon.esp|023717"
+      ]
+    },
+    {
+      "name": "Pack NEEHER_PIKX_Weapon",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "ss2-prarandomaddon.esp|02374c"
+      ]
+    },
+    {
+      "name": "Pack VGDoubleBarrel",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "vgdoublebarrel.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack VTT2_LoadoutWeapon_10mm_Silenced",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2aop_vaulttectools2.esp|0009bd"
+      ]
+    },
+    {
+      "name": "Pack VTT2_LoadoutWeapon_HuntingRifle_Suppressed",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ss2aop_vaulttectools2.esp|0009be"
+      ]
+    },
+    {
+      "name": "Pack SOV_Weapon_DP28",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "wwii - sov weapon dp28.esp|000801"
+      ]
+    },
+    {
+      "name": "Pack CROSSweap_sol_Gun",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "archimedes-ii.esp|0008e8"
+      ]
+    },
+    {
+      "name": "Pack CINST_Weap",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "photondisruptor.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack CINST_WeapCrafted",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "photondisruptor.esp|000855"
+      ]
+    },
+    {
+      "name": "Pack CINST_WeapSpecial",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "photondisruptor.esp|0008f4"
+      ]
+    },
+    {
+      "name": "Pack PPS43",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "pps43.esp|000929"
+      ]
+    },
+    {
+      "name": "Pack PPS43_unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "pps43.esp|00095e"
+      ]
+    },
+    {
+      "name": "Pack Type56",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skstype56.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack DecapitalistSKS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skstype56.esp|0009a7"
+      ]
+    },
+    {
+      "name": "Pack Type56_Standalone",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skstype56.esp|000a35"
+      ]
+    },
+    {
+      "name": "Pack Bren_MK1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "folon_bren.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack 00CWRCW",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cwrcw.esp|00080a"
+      ]
+    },
+    {
+      "name": "Pack 00CWRCWUniqueGB",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cwrcw.esp|000818"
+      ]
+    },
+    {
+      "name": "Pack MG42MachineGun_Pasta",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mg42.esp|0008a4"
+      ]
+    },
+    {
+      "name": "Pack MG42MachineGun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mg42.esp|000fb4"
+      ]
+    },
+    {
+      "name": "Pack MartiniHenryICI",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "martinihenryici.esp|000803"
+      ]
+    },
+    {
+      "name": "Pack MartiniHenryICITQG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "martinihenryici.esp|000877"
+      ]
+    },
+    {
+      "name": "Pack RemingtonNewArmy",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "remingtonnewarmy.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack 00DakRollingBlock",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakrollingblock.esp|000804"
+      ]
+    },
+    {
+      "name": "Pack 00DakRollingBlockUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dakrollingblock.esp|00081a"
+      ]
+    },
+    {
+      "name": "Pack SKI_Weap_Musket",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ski_blackpowder.esp|00083b"
+      ]
+    },
+    {
+      "name": "Pack SKI_Weap_MusketUnique_Sunset",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ski_blackpowder.esp|000f6f"
+      ]
+    },
+    {
+      "name": "Pack SKI_Weap_MusketUnique_BunkerHill",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ski_blackpowder.esp|000f70"
+      ]
+    },
+    {
+      "name": "Pack SKI_Weap_MusketUnique_GaussMoss",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "ski_blackpowder.esp|000f80"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_PPS43",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_SKS",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000801"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_SKS_Worn",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000802"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_Bren",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000803"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_MG42",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000804"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_MG34",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000805"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_RCW",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000806"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_NewArmy",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000807"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_RollingBlock",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000808"
+      ]
+    },
+    {
+      "name": "Pack PackPeriodFaction_Musket",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packperiodfactionweapons.esp|000809"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_M66",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_M202",
+      "priority": 10000,
+      "maxDurability": 700,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000801"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_M1A",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000802"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Win1897",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000803"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Win1897Worn",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000804"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_M1911",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000805"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_DP28",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000806"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_PKM",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000807"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Uzi",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000808"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Revolver44",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|000809"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_RPD",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|00080a"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_HiPower",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|00080b"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Model11",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionexpansion.esp|00080c"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Photon",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionexpansion.esp|00080e"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Lee",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000900"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_ServicePlain",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000901"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Service",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000902"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_G3",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000903"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_FAL",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000904"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Wattz",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|000905"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Aquila",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|000906"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_C14",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000907"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_L118",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000908"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_GreaseGun",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000909"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Sten",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090a"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Thompson",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090b"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_PPSh",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090c"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_G43",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090d"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Kar98",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090e"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_StG44",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00090f"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Repeater",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000910"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_DoubleBarrel",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000911"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Plasma",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|000912"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Mosin",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000913"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_SVD",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000914"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_TOZ",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000915"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_AM180",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000916"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_PPK",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000917"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_M9A3",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000918"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_TT33",
+      "priority": 10000,
+      "maxDurability": 2800,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000919"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Gamma",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|00091a"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Radium",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00091b"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Harpoon",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00091c"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_Pipe",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00091d"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_PipeBolt",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00091e"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_PipeRevolver",
+      "priority": 10000,
+      "maxDurability": 2200,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|00091f"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_SR25",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000920"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_HK417",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packfactionequipment.esp|000921"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_EnclavePlasma",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|000922"
+      ]
+    },
+    {
+      "name": "Pack PackFactionIssue_EnclaveWattz",
+      "priority": 10000,
+      "maxDurability": 3500,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "packfactionequipment.esp|000923"
+      ]
+    },
+    {
+      "name": "Pack SVT40",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "svt40.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack SVT40_Bayonet",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "svt40.esp|0008ae"
+      ]
+    },
+    {
+      "name": "Pack SVT40RedBetty",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "svt40.esp|0008bc"
+      ]
+    },
+    {
+      "name": "Pack SVT40BlueBetty",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "svt40.esp|0008e4"
+      ]
+    },
+    {
+      "name": "Pack PackSVT40_FactionIssue",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packsvt40integration.esp|000810"
+      ]
+    },
+    {
+      "name": "Pack M500",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "mossberg500.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000_V07",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|0008e0"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000_V2",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|0008f3"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000_V3",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|0008f4"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000_V01",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|000909"
+      ]
+    },
+    {
+      "name": "Pack WPNMCPR-3000_V04",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "ozzys_mcpr-300.esp|000917"
+      ]
+    },
+    {
+      "name": "Pack PackNewGuns_Issue_Mossberg500",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packmossbergmcprintegration.esp|000810"
+      ]
+    },
+    {
+      "name": "Pack PackNewGuns_Issue_MCPR300",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "packmossbergmcprintegration.esp|000811"
+      ]
+    },
+    {
+      "name": "Pack CAP_HuntingSniperSuppresed",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|001ecf"
+      ]
+    },
+    {
+      "name": "Pack CAP_PipeGunSniperSuppresed",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|001ece"
+      ]
+    },
+    {
+      "name": "Pack CAP_HuntingSniper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack CAP_CombatRifleSniper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|007a20"
+      ]
+    },
+    {
+      "name": "Pack CAP_PipeGunSniper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|006ae8"
+      ]
+    },
+    {
+      "name": "Pack CAP_CombatRifleSniperSuppresed",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "flashy_crimeandpunishment_gunforhire_addon.esp|001ed0"
+      ]
+    },
+    {
+      "name": "Pack AGNISKitBlade01",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "agnisnikacola01.esp|0f3aab"
+      ]
+    },
+    {
+      "name": "Pack AGNISKitsRevolver",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "agnisnikacola01.esp|01244c"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapAxe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|000892"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapShovel",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|000a20"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapUniqueFertilizerShovel",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|008711"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapKnifeCombat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|008797"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapLeadPipe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|00879c"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|00879f"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|0087a1"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapUniqueDismemberer",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|0087a6"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04MicrowaveEmitter",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|017346"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapPickaxe",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|017511"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapRitualBlade",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|019dcc"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapUniqueRewardRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e7f2"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapBaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e8a5"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04Weap32CaliberPistol",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e8f5"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapSniperRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e924"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapBBGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e969"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapFlamer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01e981"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapChineseOfficerSword",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01ea22"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapHuntingRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01eb47"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapToyKnife",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|01eef4"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04Minigun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|02041b"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04MinigunEugene",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|020471"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04MinigunAvenger",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|020473"
+      ]
+    },
+    {
+      "name": "Pack 00DCDLC04WeapSuperSledge",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cwpointlookoutfo4.esm|0204b1"
+      ]
+    },
+    {
+      "name": "Pack 00LBBuggyLaserLMG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cseploadedbases.esp|1e2dac"
+      ]
+    },
+    {
+      "name": "Pack 00LBSalvagedInstituteLaserGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cseploadedbases.esp|027063"
+      ]
+    },
+    {
+      "name": "Pack 00LBUniqueBaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "cseploadedbases.esp|1bc6bf"
+      ]
+    },
+    {
+      "name": "Pack 00LBResidentStolenGun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "cseploadedbases.esp|097a45"
+      ]
+    },
+    {
+      "name": "Pack 00DTHannahBaseballBat",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csepdetour.esp|00e037"
+      ]
+    },
+    {
+      "name": "Pack 00ARGreenAlienBlaster",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "csep_stars.esp|0318d4"
+      ]
+    },
+    {
+      "name": "Pack 00ARAlienBaton",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "csep_stars.esp|008c50"
+      ]
+    },
+    {
+      "name": "Pack 00sots_GammaRepeater",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "southofthesea.esm|001361"
+      ]
+    },
+    {
+      "name": "Pack 00sots_Unique_Absolver",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "southofthesea.esm|00fe5b"
+      ]
+    },
+    {
+      "name": "Pack 00sots_Wana_ChineseOfficerSword_Glowing",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "southofthesea.esm|197916"
+      ]
+    },
+    {
+      "name": "Pack 00sots_UWC_Flamer",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "southofthesea.esm|3d828b"
+      ]
+    },
+    {
+      "name": "Pack 00sots_UWC_HMG",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "southofthesea.esm|3d8292"
+      ]
+    },
+    {
+      "name": "Pack 00sots_GatlinLaser",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "southofthesea.esm|41c814"
+      ]
+    },
+    {
+      "name": "Pack CROSSweap_Bal",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_breakactionlaser.esp|00081c"
+      ]
+    },
+    {
+      "name": "Pack CROSSweap_Bal_Unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_breakactionlaser.esp|00081d"
+      ]
+    },
+    {
+      "name": "Pack CROSSweap_Bal_crafted",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_breakactionlaser.esp|00081e"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol_Unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol_Unique_FO3_1",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|0008cb"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol_Unique_FO3_2",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|0008cc"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol_Unique_FO3_3",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|0008cd"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack 01F4NVLaser_Pistol_Prototype",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvlaserpistol.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack ZAPGUN",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "zapgun.esp|000814"
+      ]
+    },
+    {
+      "name": "Pack Zapgun_Unique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "zapgun.esp|00103e"
+      ]
+    },
+    {
+      "name": "Pack ZAPGUN_basic",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "zapgun.esp|002ed2"
+      ]
+    },
+    {
+      "name": "Pack ZAPGUN_gunner",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "zapgun.esp|003e57"
+      ]
+    },
+    {
+      "name": "Pack ZAPGUN_Saugus",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "zapgun.esp|003e58"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_RechargerGunUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvrechargerweapons.esp|00080f"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_RechargerGunRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvrechargerweapons.esp|000820"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_RechargerGunPistol",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "f4nvrechargerweapons.esp|000822"
+      ]
+    },
+    {
+      "name": "Pack CrudeBlowback",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "crudeblowback.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack 01F4NV_CaravanShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "dp_caravanshotgun.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack VarmintRifle",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "varmintrifle.esp|00082f"
+      ]
+    },
+    {
+      "name": "Pack VarmintRifle_RatSlayer",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "varmintrifle.esp|00086e"
+      ]
+    },
+    {
+      "name": "Pack VarmintRifle_Laz",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "varmintrifle.esp|00086d"
+      ]
+    },
+    {
+      "name": "Pack ClassicSniper",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "classicsniper.esp|000800"
+      ]
+    },
+    {
+      "name": "Pack F4NV_Bozar_BlastFromThePast",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bullpupbozar.esp|0008a0"
+      ]
+    },
+    {
+      "name": "Pack F4NV_Bozar_Azrael",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bullpupbozar.esp|0008a7"
+      ]
+    },
+    {
+      "name": "Pack F4NV_Bozar",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "bullpupbozar.esp|000847"
+      ]
+    },
+    {
+      "name": "Pack crossweap_ruger",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_rugermkv.esp|000811"
+      ]
+    },
+    {
+      "name": "Pack crossweap_ruger_Crafted",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_rugermkv.esp|0009a4"
+      ]
+    },
+    {
+      "name": "Pack crossweap_ruger_USMC",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "cross_rugermkv.esp|0009be"
+      ]
+    },
+    {
+      "name": "Pack LString_Recurvebow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|00080f"
+      ]
+    },
+    {
+      "name": "Pack LString_CompoundBow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000846"
+      ]
+    },
+    {
+      "name": "Pack LString_Woodbow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000856"
+      ]
+    },
+    {
+      "name": "Pack LString_CompoundBow_WorldSpace",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000993"
+      ]
+    },
+    {
+      "name": "Pack LString_Recurvebow_WorldSpace",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000994"
+      ]
+    },
+    {
+      "name": "Pack LString_Woodbow_WorldSpace",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000995"
+      ]
+    },
+    {
+      "name": "Pack LString_Recurvebow_NPC",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a1e"
+      ]
+    },
+    {
+      "name": "Pack LString_CompoundBow_NPC",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a1f"
+      ]
+    },
+    {
+      "name": "Pack LString_Woodbow_NPC",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a20"
+      ]
+    },
+    {
+      "name": "Pack LString_Woodbow_NPC_FireArrow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a44"
+      ]
+    },
+    {
+      "name": "Pack LString_Recurvebow_NPC_FireArrow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a45"
+      ]
+    },
+    {
+      "name": "Pack LString_CompoundBow_NPC_Incendiary",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a46"
+      ]
+    },
+    {
+      "name": "Pack LString_MongolBow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "lstring_bow.esp|000a49"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_Jacks_Ghostgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "3dnpc_fo4.esp|03533e"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_RaiderZynxCombatShotgun",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "3dnpc_fo4.esp|0050da"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_NiahSign01",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "3dnpc_fo4.esp|00a418"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_NiahSign03",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "3dnpc_fo4.esp|00d586"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_NiahSign04",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "3dnpc_fo4.esp|00d587"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_NiahSign05",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "3dnpc_fo4.esp|00d588"
+      ]
+    },
+    {
+      "name": "Pack f3DNPC_NiahSign02",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "3dnpc_fo4.esp|00d585"
+      ]
+    },
+    {
+      "name": "Pack LAER_Stunstick",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "laer.esp|00bffb"
+      ]
+    },
+    {
+      "name": "Pack LAER_TrumpetUniqueJoke",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|00cf52"
+      ]
+    },
+    {
+      "name": "Pack LAER",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|000f99"
+      ]
+    },
+    {
+      "name": "Pack LAER_RailroadUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|001f01"
+      ]
+    },
+    {
+      "name": "Pack LAER_InstituteUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|001f00"
+      ]
+    },
+    {
+      "name": "Pack LAER_Worn",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|001f02"
+      ]
+    },
+    {
+      "name": "Pack LAER_MeltdownUnique",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "laer.esp|0082e4"
+      ]
+    },
+    {
+      "name": "Pack ConceptPlasmaPistol",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "conceptplasma.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack ConceptPlasmaPistolLegendary",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "conceptplasma.esp|000858"
+      ]
+    },
+    {
+      "name": "Pack G86Rookie",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "glock86.esl|00002f"
+      ]
+    },
+    {
+      "name": "Pack G86MagicToy",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "glock86.esl|00081b"
+      ]
+    },
+    {
+      "name": "Pack G86Gold",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "glock86.esl|00081a"
+      ]
+    },
+    {
+      "name": "Pack G86",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "glock86.esl|000f99"
+      ]
+    },
+    {
+      "name": "Pack G86OldBoy",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "glock86.esl|00002e"
+      ]
+    },
+    {
+      "name": "Pack ShanxiType97",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "energy",
+      "formIDs": [
+        "shanxitype97.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack Skb_VindicatorMinigun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb-minigunsrebirth.esl|000067"
+      ]
+    },
+    {
+      "name": "Pack Skb_PersonalMinigun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb-minigunsrebirth.esl|000066"
+      ]
+    },
+    {
+      "name": "Pack Skb_AvengerMinigun",
+      "priority": 10000,
+      "maxDurability": 6000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "skb-minigunsrebirth.esl|000f99"
+      ]
+    },
+    {
+      "name": "Pack 6520Revolver",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "65seriespistols.esp|000f9a"
+      ]
+    },
+    {
+      "name": "Pack N80Pistol",
+      "priority": 10000,
+      "maxDurability": 4000,
+      "degradeRate": 1,
+      "canJam": true,
+      "mechanism": "ballistic",
+      "formIDs": [
+        "65seriespistols.esp|000843"
+      ]
+    },
+    {
+      "name": "Pack Crossbow",
+      "priority": 10000,
+      "maxDurability": 1800,
+      "degradeRate": 1,
+      "canJam": false,
+      "mechanism": "none",
+      "formIDs": [
+        "crossbow.esp|000805"
+      ]
+    }
+  ]
+}
