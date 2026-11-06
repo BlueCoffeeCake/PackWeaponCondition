@@ -1,0 +1,28 @@
+Code signing policy
+===================
+Status: free SignPath Foundation application is being prepared. No approval,
+certificate, signed release or association with SignPath is currently claimed.
+If accepted, the signing acknowledgment will be:
+  Free code signing provided by SignPath.io, certificate by SignPath Foundation.
+
+Only artifacts built from this repository's reviewed source on an approved hosted
+build system may be submitted. No private prebuilt binary is imported for signing.
+The original blocked private DLL remains outside this repository and is not
+renamed, copied, repackaged, executed or retried to avoid the Windows decision.
+
+Repository owners: signing approvers. Repository maintainers with review access:
+committers and reviewers. Configure named owners and a protected release-signing
+environment before enabling the signing workflow. Every production signing request
+requires a maintainer's review. Do not enable SIGNPATH_APPROVED until the provider
+has accepted the project and its GitHub integration and policies are configured.
+
+The manual signing workflow is disabled by default and checks that this is a
+public repository. It uses a standard hosted runner, not a paid larger runner.
+Native build/tests are behind that provider-approval gate. The automatic workflow
+performs Python source checks only. Set no payment method or paid service for this
+project. No paid signing subscription is authorized.
+
+The provider may reject the application. An open-source license and repository
+alone do not guarantee eligibility. Do not misstate reputation, build evidence,
+runtime testing or provider acceptance. SignPath terms: https://signpath.org/terms
+GitHub integration: https://docs.signpath.io/trusted-build-systems/github

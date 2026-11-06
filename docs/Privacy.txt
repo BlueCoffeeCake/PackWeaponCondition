@@ -1,0 +1,11 @@
+Privacy policy
+==============
+The native game plugin has no network or telemetry client. It reads the supported
+game/framework memory, its local configuration and the collection's records, and
+writes a local diagnostic log under Data/F4SE/Plugins. It does not transmit saves,
+mod lists or personal files to a network service.
+
+The public repository discloses the source and managed plugin filenames/local form
+identifiers. GitHub and a future signing provider process repository/build artifacts
+when a maintainer explicitly publishes or submits them. Their account/website
+privacy terms apply to those services, not to game runtime telemetry.

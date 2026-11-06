@@ -1,0 +1,16 @@
+Release checks
+==============
+Keep the initial source publication separate from an installable binary release.
+Before installing a future candidate, require a trusted signature and normal loader
+acceptance, exact-runtime/framework guards, native query/policy tests and the live
+catalog/profile reference audit. A hosted CI run is not an in-game test.
+
+In-game evidence still needed: per-stack save/load/drop/trade/attachments; all tiers;
+ruined firing/equip gates including queued/scripted fire; bench repair costs and
+perk caps; fault clearing without repairs; NPC/companion usability; loot-context
+ranges; rain/radstorm/swimming/menu/interior behavior; UI and performance.
+
+The current source pipeline and PE version metadata have not been compiled here.
+Game/framework image fixtures are not redistributed. The old private test results
+do not certify a new compiler's DLL or new hosted artifact. Preserve all unrelated
+pack files and validate a future complete install in a new backed-up transaction.
